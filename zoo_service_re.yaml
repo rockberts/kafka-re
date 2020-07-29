@@ -15,5 +15,5 @@ spec:
    - name: leader
      port: 3888
      protocol: TCP
-selector:
-app: zookeeper-1
+  selector:
+    app: zookeeper-1
